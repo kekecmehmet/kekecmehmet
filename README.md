@@ -1,6 +1,6 @@
 ### Hi, it is me 👋
 *🔭 I’m currently working on Artificial Intelligence*  
-*🌱 I’m currently studying computer science engineering at METU*  
+*🌱 I’m currently studying computer engineering at METU*  
 *📫 You can reach me via searching @membuk on Instagram and X*  
 *💬 Also [here](https://www.linkedin.com/in/mehmet-keke%C3%A7) is my LinkedIn account*
 
