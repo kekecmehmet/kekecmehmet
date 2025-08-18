@@ -2,7 +2,7 @@
 *🔭 I’m currently working on Artificial Intelligence and Mobile Development*  
 *🌱 I’m currently studying computer engineering at METU*  
 *📫 You can reach me via searching @membuk on Instagram*  
-*💬 Also [here](https://www.linkedin.com/in/mehmet-keke%C3%A7) is my LinkedIn account*
+*💬 Also [here](https://www.linkedin.com/in/mehmet-kekec) is my LinkedIn account*
 
 <!--
 **membuk/membuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
