@@ -1,6 +1,6 @@
 ### Hi, it is me 👋
-*🔭 I’m currently working on Artificial Intelligence and Mobile Development*  
-*🌱 I’m currently studying computer engineering at METU*  
+*🔭 I’m currently working on Artificial Intelligence, Autonomous Systems and Mobile Development*  
+*🌱 I’m currently studying Computer Engineering at Middle East Technical University (METU)*  
 *📫 You can reach me via searching @membuk on Instagram*  
 *💬 Also [here](https://www.linkedin.com/in/mehmet-kekec) is my LinkedIn account*
 
