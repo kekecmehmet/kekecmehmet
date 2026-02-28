@@ -30,8 +30,8 @@
 ### 🗂️ Projects
 
 - 🚗 [**Alaz**](https://github.com/efekaanguler/alaz) - Autonomous Car Project | Finalist at TEKNOFEST 2025 - Robotaksi Autonomous Car Competition
-- 🌊 **SeaSphere** - Submarine with touristic purpose | Finalist at TEKNOFEST 2022 - Tourism Technologies Competition
 - 📱 [**Foodage**](https://github.com/kekecmehmet/foodage) - Sustainable food planning app to combat famine | Solution Challenge 2024
+- 🌊 **SeaSphere** - Submarine with touristic purpose | Finalist at TEKNOFEST 2022 - Tourism Technologies Competition
 
 ---
 
