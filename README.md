@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Mehmet 👋! </h1>
 <p align="center">
   <i>A passionate developer with a strong background in competitive programming, robotics, mobile development, and AI-driven projects.</i><br/>
-  🎓 Computer Engineering student at <b>METU</b>
+  💼 Undergraduate Researcher at <b>ROMER-METU</b>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ### 📫 Let's Connect
 
 - 📩 Email: [kekecmehmet71@gmail.com](mailto:kekecmehmet71@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-kekec/)
+- [in] [LinkedIn](https://www.linkedin.com/in/mehmet-kekec/)
 <!--
 <h1 align="center"> Hi, I'm Mehmet 👋! </h1>
 <p align="center">
