@@ -9,7 +9,7 @@
 ### 💻 About Me
 
 - 🎓 Computer Engineering Student at METU
-- 🔬 Currently working on ROS, and computer vision on an autonomous car project  
+- 🔬 Currently working on robotics, and computer vision  
 
 ---
 
