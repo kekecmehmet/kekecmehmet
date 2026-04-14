@@ -30,6 +30,7 @@
 
 ### 🗂️ Projects
 
+- 🤖 [**USTA**](https://github.com/efekaanguler/usta_pose) - HRI Research Project
 - 🚗 [**Alaz**](https://github.com/efekaanguler/alaz) - Autonomous Car Project | Finalist at TEKNOFEST 2025 - Robotaksi Autonomous Car Competition | Participant at RDW Self Driving Challenge as first international team
 - 📱 [**Foodage**](https://github.com/kekecmehmet/foodage) - Sustainable food planning app to combat famine | Solution Challenge 2024
 - 🌊 **SeaSphere** - Submarine with touristic purpose | Finalist at TEKNOFEST 2022 - Tourism Technologies Competition
