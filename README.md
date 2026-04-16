@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Mehmet 👋! </h1>
 <p align="center">
-  <i>A passionate developer with a strong background in competitive programming, robotics, mobile development, and AI-driven projects.</i><br/>
+  <i>A passionate developer with a strong background in competitive programming, robotics, and AI-driven projects.</i><br/>
   💼 Undergraduate Researcher at <b>ROMER-METU</b>
 </p>
 
