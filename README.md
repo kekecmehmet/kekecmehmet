@@ -32,6 +32,7 @@
 
 - 🤖 [**USTA**](https://github.com/efekaanguler/usta_pose) - HRI Research Project
 - 🚗 [**Alaz**](https://github.com/efekaanguler/alaz) - Autonomous Car Project | Finalist at TEKNOFEST 2025 - Robotaksi Autonomous Car Competition | Participant at RDW Self Driving Challenge as first international team | 4th at RDW SDC 2026
+- ✈️ [**THY | ODTÜ Ambale**](https://github.com/kekecmehmet/thy) - Turkish Airlines Airline Optimization Project | TEKNOFEST 2026
 - 🧬 [**ImmunoTarget**](https://github.com/CENTURI-Hackathon-for-Quantitative-Bio/immunotarget) - AI for immune receptor | 2nd at CENTURI Hackathon
 - 📱 [**Foodage**](https://github.com/kekecmehmet/foodage) - Sustainable food planning app to combat famine | Solution Challenge 2024
 - 🩸 [**Period Care**](https://github.com/kekecmehmet/period-care) - A small Kotlin Android app for private period tracking
