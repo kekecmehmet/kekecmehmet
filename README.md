@@ -42,8 +42,8 @@
 
 ### 📫 Let's Connect
 
-- 📩 Email: [kekecmehmet71@gmail.com](mailto:kekecmehmet71@gmail.com)  
-- [in] [LinkedIn](https://www.linkedin.com/in/mehmet-kekec/)
+- 📩 Email: [kekecmehmett@gmail.com](mailto:kekecmehmett@gmail.com)  
+- ℹ️ [LinkedIn](https://www.linkedin.com/in/mehmet-kekec/)
 <!--
 <h1 align="center"> Hi, I'm Mehmet 👋! </h1>
 <p align="center">
@@ -86,7 +86,7 @@
 
 ### 📫 Let's Connect
 
-- 📩 Email: [kekecmehmet71@gmail.com](mailto:kekecmehmet71@gmail.com)  
+- 📩 Email: [kekecmehmett@gmail.com](mailto:kekecmehmet71@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-kekec/)
 
 ---
