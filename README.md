@@ -36,6 +36,7 @@
 - 🧬 [**ImmunoTarget**](https://github.com/CENTURI-Hackathon-for-Quantitative-Bio/immunotarget) - AI for immune receptor | 🥈 2nd at CENTURI Hackathon
 - 📱 [**Foodage**](https://github.com/kekecmehmet/foodage) - Sustainable food planning app to combat famine | Solution Challenge 2024
 - 🩸 [**Period Care**](https://github.com/kekecmehmet/period-care) - A small Kotlin Android app for private period tracking
+- ☀️ [Daily Şenol](https://github.com/kekecmehmet/dailysenolgunes) - Automated X bot sharing a sourced Şenol Güneş quote every day at 21:00 | Twitter/X: [@daily_senol](https://x.com/daily_senol)
 - 🌊 **SeaSphere** - Submarine with touristic purpose | Finalist at TEKNOFEST 2022 - Tourism Technologies Competition
 
 ---
